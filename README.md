@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carla Rebeca González Gómez
 
-<!--
-**CarlaRebecaGonzalez/CarlaRebecaGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actuaria con formación en ciencia de datos y enfoque en análisis, visualización y transformación de información.  
+📊 Apasionada por convertir datos en decisiones, con experiencia en planeación de demanda, análisis de ventas y mejora de procesos.
 
-Here are some ideas to get you started:
+🔍 Me interesa el uso de herramientas como **Python, SQL, Power BI** y técnicas de análisis estadístico para resolver problemas del mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+- [📈 Análisis de comportamiento de clientes – Proyecto final TripleTen](https://github.com/CarlaRebecaGonzalez/proyecto-final-tripleten)  
+  Análisis exploratorio, visualización y modelo predictivo de comportamiento de usuarios usando Python, SQL y herramientas de visualización.
+
+*Muy pronto compartiré más proyectos de automatización de reportes y dashboards.*
+
+---
+
+## 🛠 Tecnologías
+
+**Lenguajes:** Python · SQL  
+**Visualización:** Power BI · Excel avanzado  
+**Data Science:** pandas · scikit-learn · matplotlib · seaborn  
+**Otros:** Git · Jupyter Notebooks · Microsoft Office
+
+---
+
+## 📫 Conecta conmigo
+
+- 📧 carlargg@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carla-gonz%C3%A1lez-g%C3%B3mez/) 
+- 🧠 Bootcamp: Data Science por [TripleTen](https://tripleten.com)
+
+Gracias por visitar mi perfil 💜
