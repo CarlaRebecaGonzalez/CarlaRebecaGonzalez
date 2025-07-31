@@ -28,7 +28,7 @@
 ## 📫 Conecta conmigo
 
 - 📧 carlargg@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/carla-gonz%C3%A1lez-g%C3%B3mez/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/carla-gonzalez-gomez/) 
 - 🧠 Bootcamp: Data Science por [TripleTen](https://tripleten.com)
 
 Gracias por visitar mi perfil 💜
