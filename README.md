@@ -9,10 +9,10 @@
 
 ## 🚀 Proyectos destacados
 
-- [📈 Análisis de comportamiento de clientes – Proyecto final TripleTen](https://github.com/CarlaRebecaGonzalez/proyecto-final-tripleten)  
+- [📈 Aprendizaje automático: Optimización de costos planta siderúrgica](https://github.com/CarlaRebecaGonzalez/proyecto-final-tripleten)  
   Análisis exploratorio, visualización y modelo predictivo de comportamiento de usuarios usando Python, SQL y herramientas de visualización.
 
-- [📈 Análisis Exploratorio de Vehículos en Venta – Proyecto TripleTen](https://github.com/CarlaRebecaGonzalez/Project-Repo)  
+- [📈 Análisis Exploratorio de Vehículos en Venta](https://github.com/CarlaRebecaGonzalez/Project-Repo)  
   Análisis y visualización de comportamiento de usuarios usando Python, SQL y herramientas de visualización.
 
 *Muy pronto compartiré más proyectos de automatización de reportes y dashboards.*
