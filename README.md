@@ -9,13 +9,22 @@
 
 ## 🚀 Proyectos destacados
 
-- [📈 Aprendizaje automático: Optimización de costos planta siderúrgica](https://github.com/CarlaRebecaGonzalez/proyecto-final-tripleten)  
-  Análisis exploratorio, visualización y modelo predictivo de comportamiento de usuarios usando Python, SQL y herramientas de visualización.
+- [📈 Series de tiempo: Predicción de demanda de taxis](https://github.com/CarlaRebecaGonzalez/Demanda-taxis-series-de-tiempo)  
+  Desarrollo de un modelo de machine learning para predecir la cantidad de pedidos de taxis por hora, utilizando datos históricos de demanda en aeropuertos. El objetivo fue anticipar picos de demanda para optimizar la asignación de conductores.
+
+- [📈 NLP: Clasificación de reseñas de películas](https://github.com/CarlaRebecaGonzalez/Clasificacion-resenas-peliculas-NLP)  
+  Desarrollo de un modelo de procesamiento de lenguaje natural (NLP) para clasificar automáticamente reseñas de películas como positivas o negativas. El sistema fue diseñado para apoyar la moderación y categorización de contenido en una plataforma de análisis de películas.
+
+- [📈 Visión artificial: Estimación de edad](https://github.com/CarlaRebecaGonzalez/Estimacion-edad-mediante-vision-artificial)  
+  Desarrollo de un modelo de visión artificial para estimar la edad de una persona a partir de imágenes, con el objetivo de apoyar el cumplimiento de regulaciones en la venta de alcohol. El sistema permite automatizar la verificación de edad en puntos de venta mediante el análisis de fotografías.
+
+- [📈 Aprendizaje automático: Optimización de costos planta siderúrgica](https://github.com/CarlaRebecaGonzalez/ML-optimizacion-costos-planta-siderurgica)  
+  Desarrollo de un modelo de aprendizaje automático capaz de predecir la última temperatura medida del acero fundido durante el procesamiento en cuchara.
 
 - [📈 Análisis Exploratorio de Vehículos en Venta](https://github.com/CarlaRebecaGonzalez/Project-Repo)  
   Análisis y visualización de comportamiento de usuarios usando Python, SQL y herramientas de visualización.
 
-*Muy pronto compartiré más proyectos de automatización de reportes y dashboards.*
+
 
 ---
 
