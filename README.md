@@ -39,8 +39,8 @@
 
 ## 🗣️ Idiomas
 
-**Español:** Nativo
-**Inglés:** Avanzado
+**Español:** Nativo  
+**Inglés:** Avanzado  
 
 ---
 
