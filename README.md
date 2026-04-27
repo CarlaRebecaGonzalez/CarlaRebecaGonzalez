@@ -37,6 +37,11 @@
 
 ---
 
+## 🗣️ Idiomas
+**Español:** Nativo
+**Inglés:** Avanzado
+---
+
 ## 📫 Conecta conmigo
 
 - 📧 carlargg@gmail.com  
