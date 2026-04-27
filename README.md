@@ -39,8 +39,8 @@
 
 ## 🗣️ Idiomas
 **Español:** Nativo
-
 **Inglés:** Avanzado
+
 ---
 
 ## 📫 Conecta conmigo
